@@ -1,0 +1,5 @@
+- Hi, I’m @SwagScratch
+- I’m interested in programming, videogames and music!
+- I’m currently learning to use Haxe
+- I’m looking to collaborate on FNF mods
+- Location not disclosed
